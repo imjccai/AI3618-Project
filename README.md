@@ -6,7 +6,7 @@
 
 ## Contributors
 
-- Mingbo Dai
+- [mingbodai](https://github.com/mingbodai)
 - [GeniusMahjongXingXing](https://github.com/GeniusMahjongXingXing)
 - [Ceslander](https://github.com/Ceslander)
 - [zhj2022](https://github.com/zhj2022)
