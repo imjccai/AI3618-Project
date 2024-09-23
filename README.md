@@ -8,6 +8,6 @@
 
 - [mingbodai](https://github.com/mingbodai)
 - [GeniusMahjongXingXing](https://github.com/GeniusMahjongXingXing)
-- [Ceslander](https://github.com/Ceslander)
+- [imjccai](https://github.com/imjccai)
 - [zhj2022](https://github.com/zhj2022)
 
